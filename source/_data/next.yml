@@ -3,3 +3,10 @@
 #scheme: Mist
 scheme: Pisces
 #scheme: Gemini
+
+
+menu:
+  home: / || home
+  tags: /tags/ || tags
+  categories: /categories/ || th
+  archives: /archives/ || archive
