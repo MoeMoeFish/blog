@@ -6,4 +6,4 @@ tags: algorithm
 
 1. 不用临时变量交换两个数的值
 [不用临时变量交换两个数的值](http://wuaner.iteye.com/blog/652629)
-实用 ^ 异或运行符即可
+使用 ^ 异或运行符即可

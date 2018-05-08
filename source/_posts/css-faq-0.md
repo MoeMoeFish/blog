@@ -22,3 +22,7 @@ categories: css
 
 1. 纯 CSS 实现三角形
 [CSS实现三角形](https://www.jianshu.com/p/1f32120a503b)
+
+1. inline 与 block 的区别
+[Understanding the CSS box model for inline elements](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
+[CSS块级元素和行内元素](https://jeffjade.com/2015/06/24/2015-06-24-css-block-inline/)
