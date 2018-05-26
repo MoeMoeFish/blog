@@ -6,7 +6,6 @@ categories: javascript
 ---
 1. gulp/grunt 与 webpack的区别是什么?
 
-
 1. webpack是解决什么问题而生的?
 
 1. webpack 如何配置多入口文件?
@@ -22,3 +21,6 @@ categories: javascript
     * 匿名函数和不处于任何对象中的函数，指向 global 对象
     * `call, apply, bind` 中传递的 `this` 参数就是实际的指向对象
     * 普通函数调用时，函数被谁调用，`this` 就指向谁
+
+1. Dom object 的 property 与 attribue 的关系是什么？
+[Attributes and properties](https://javascript.info/dom-attributes-and-properties)
